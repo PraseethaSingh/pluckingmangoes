@@ -16,7 +16,7 @@ var launchForce = 1000;
 
 
 function preload(){
-	boy=loadImage("images/boy.png");
+	boy=loadImage("boy.png");
   }
 
 function setup() {
